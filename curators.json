@@ -1,0 +1,60 @@
+[
+  {
+    "provider": "spotify",
+    "source_query": "Nas",
+    "playlist": {
+      "id": "0s7cT2HdgGQPbtz7OTzFPD",
+      "name": "NASIK DHOL THASHA🥁🥁🔥🔥",
+      "url": "https://open.spotify.com/playlist/0s7cT2HdgGQPbtz7OTzFPD",
+      "owner_name": "Song diary",
+      "owner_handle": "lz8t2ivmw1er5aaqnl813tya3",
+      "owner_url": "https://open.spotify.com/user/lz8t2ivmw1er5aaqnl813tya3"
+    },
+    "contacts": {
+      "emails": [
+        {
+          "value": "vishvaroopimusic@gmail.com",
+          "context": "no context keywords"
+        }
+      ],
+      "websites": [],
+      "socials": {
+        "instagram": [],
+        "x": [],
+        "youtube": [],
+        "tiktok": []
+      },
+      "submission_links": []
+    },
+    "notes": "saved because it had email or submission/contact link; curator de-duped"
+  },
+  {
+    "provider": "spotify",
+    "source_query": "Nas",
+    "playlist": {
+      "id": "5N3wksBBCj3d0q7bHfTCzv",
+      "name": "rapping like rent's due",
+      "url": "https://open.spotify.com/playlist/5N3wksBBCj3d0q7bHfTCzv",
+      "owner_name": "hxndis",
+      "owner_handle": "henriquesousadias",
+      "owner_url": "https://open.spotify.com/user/henriquesousadias"
+    },
+    "contacts": {
+      "emails": [
+        {
+          "value": "hxndismusic@gmail.com",
+          "context": "no context keywords"
+        }
+      ],
+      "websites": [],
+      "socials": {
+        "instagram": [],
+        "x": [],
+        "youtube": [],
+        "tiktok": []
+      },
+      "submission_links": []
+    },
+    "notes": "saved because it had email or submission/contact link; curator de-duped"
+  }
+]
