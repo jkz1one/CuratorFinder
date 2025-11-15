@@ -119,6 +119,13 @@ User configuration lives at:
 
 ---
 
+💡 Why This Project Exists
+
+Curator Finder was built to solve a clear problem: artists and teams need reliable, structured curator contact data without slow websites, rate limits, or privacy tradeoffs. Running everything locally keeps the workflow fast, stable, and fully in the user’s control.
+
+The stack is intentionally minimal. A small FastAPI service handles search, enrichment, and cleanup. The dashboard is plain HTML/CSS/JS so it loads instantly and stays transparent. Filtering, marking contacted, and exporting all work in the browser with no accounts, no cloud, and no hidden steps.
+
+---
 
 
 
