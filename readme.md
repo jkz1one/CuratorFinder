@@ -9,6 +9,8 @@ It scrapes, filters, enriches, and organizes curator contact data — **all on-d
 
 Built with a **FastAPI backend**, a **custom Spotify ingestion pipeline**, and a clean, responsive **dashboard UI** packaged into a cross-platform desktop app.
 
+<img width="1202" height="773" alt="Screenshot 2025-11-14 at 11 30 11 PM" src="https://github.com/user-attachments/assets/638014fb-452f-4197-bb66-6eea073c2853" />
+
 ---
 
 ## 🚀 What It Does
