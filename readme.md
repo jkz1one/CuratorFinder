@@ -35,7 +35,7 @@ Built with a **FastAPI backend**, a **custom Spotify ingestion pipeline**, and a
 
 ---
 
-## 🔑 Access System (Keygen → Early Access Gate)
+## 🔑 # Legacy Licensing (replaced by Early Access gate)
 
 Earlier versions of Curator Finder used a full **cryptographic licensing system**, including:
 
@@ -58,12 +58,12 @@ CF_BETA_EXPIRES=2025-12-31
 ## 📦 Running From Source
 
 ```bash
-git clone https://github.com/jkz1one/curatorfinder
-cd curator-finder
+git clone https://github.com/jkz1one/CuratorFinder
+cd CuratorFinder
 python -m venv .venv
 source .venv/bin/activate       # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-cp .env. .env
+cp .env.example .env
 ```
 
 Then run:
@@ -121,9 +121,9 @@ User configuration lives at:
 
 💡 Why This Project Exists
 
-Curator Finder was built to solve a clear problem: artists and teams need reliable, structured curator contact data without slow websites, rate limits, or privacy tradeoffs. Running everything locally keeps the workflow fast, stable, and fully in the user’s control.
+Curator Finder was built to solve a clear problem: artists and teams need reliable, structured curator contact data without slow websites, rate limits, or privacy tradeoffs.
 
-The stack is intentionally minimal. A small FastAPI service handles search, enrichment, and cleanup. The dashboard is plain HTML/CSS/JS so it loads instantly and stays transparent. Filtering, marking contacted, and exporting all work in the browser with no accounts, no cloud, and no hidden steps.
+The stack is intentionally minimal. A small FastAPI service handles search, enrichment, and cleanup. The dashboard is plain HTML/CSS/JS so it loads instantly and stays transparent.
 
 ---
 
